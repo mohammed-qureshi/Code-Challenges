@@ -1,5 +1,5 @@
 # Triplets
-This challenge has two condtions\
+This challenge has two condtions:\
 d[a] < d[b] < d[c]\
 d[a] + d[b] + d[c] <= t\
 
